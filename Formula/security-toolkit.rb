@@ -1,8 +1,8 @@
 class SecurityToolkit < Formula
   desc "Security verification toolkit for NIST compliance scanning"
   homepage "https://github.com/brucedombrowski/security-toolkit"
-  url "https://github.com/brucedombrowski/security-toolkit/archive/refs/tags/v2.0.4.tar.gz"
-  sha256 "c5d4f1f8632c7dd00f28d8c3d64d02cc3540d4683c43990a06bc79bfc2388798"
+  url "https://github.com/brucedombrowski/security-toolkit/archive/refs/tags/v2.0.5.tar.gz"
+  sha256 "6d04f1a85179fbc2c93d6459b17bf47836b4ebd48c71141f5d364e51518bce37"
   license "MIT"
   head "https://github.com/brucedombrowski/security-toolkit.git", branch: "main"
 
